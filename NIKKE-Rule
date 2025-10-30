@@ -1,16 +1,11 @@
 # NIKKE-分流域名
-IP-CIDR, 43.152.114.31/32,no-resolve
+IP-CIDR, 43.152.114.31/32, no-resolve
 
 DOMAIN-SUFFIX, nikke-kr.com
 DOMAIN-SUFFIX, intlgame.com
 DOMAIN-SUFFIX, iegcom.com
 
-#ACE
-DOMAIN, down.anticheatexpert.com
 DOMAIN-SUFFIX, anticheatexpert.com
 
-#PC NA
-DOMAIN, catalog.gamepass.com
-DOMAIN, na1.centauriglobal.com
 DOMAIN-SUFFIX, gamepass.com
 DOMAIN-SUFFIX, centauriglobal.com
