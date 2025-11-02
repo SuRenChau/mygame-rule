@@ -9,4 +9,5 @@ DOMAIN-SUFFIX, centauriglobal.com
 
 # 棕色尘埃2
 DOMAIN-SUFFIX, bd2.pmang.cloud
-DOMAIN, bd2-cdn.akamaized.net
+DOMAIN-SUFFIX, neonapi.com
+#DOMAIN, bd2-cdn.akamaized.net
