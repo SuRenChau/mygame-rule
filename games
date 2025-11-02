@@ -8,6 +8,7 @@ DOMAIN-SUFFIX, gamepass.com
 DOMAIN-SUFFIX, centauriglobal.com
 
 # 棕色尘埃2
-DOMAIN-SUFFIX, bd2.pmang.cloud
+DOMAIN-SUFFIX, chat.bd2.pmang.cloud
+DOMAIN-SUFFIX, loki.bd2.pmang.cloud
+DOMAIN-SUFFIX, api.bd2.pmang.cloud
 DOMAIN-SUFFIX, neonapi.com
-#DOMAIN, bd2-cdn.akamaized.net
