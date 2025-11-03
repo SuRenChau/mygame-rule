@@ -3,7 +3,7 @@
 payload:
 
 # NIKKE 国际服
-
+  - DOMAIN-SUFFIX, playerinfinite.com
   - DOMAIN-SUFFIX, nikke-kr.com
   - DOMAIN,global-lobby.nikke-kr.com
   - DOMAIN,cloud.nikke-kr.com
