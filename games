@@ -13,3 +13,6 @@ DOMAIN-SUFFIX, loki.bd2.pmang.cloud
 DOMAIN-SUFFIX, api.bd2.pmang.cloud
 DOMAIN-SUFFIX, mt.bd2.pmang.cloud
 DOMAIN-SUFFIX, neonapi.com
+
+# 自用机场
+DOMAIN-SUFFIX, yungang.cc
