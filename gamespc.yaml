@@ -36,6 +36,7 @@ payload:
  - DOMAIN-SUFFIX, bd2-webshop-prod.s3.amazonaws.com
 
  # Steam
+ - DOMAIN-SUFFIX, steamcommunity.com
  - DOMAIN-SUFFIX, steamcommunity-a.akamaihd.net
  - DOMAIN-SUFFIX, steampowered.com
  - DOMAIN-SUFFIX, steamstatic.com
