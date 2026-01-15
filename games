@@ -23,5 +23,9 @@ DOMAIN-SUFFIX, steamcommunity-a.akamaihd.net
 DOMAIN-SUFFIX, steampowered.com
 DOMAIN-SUFFIX, steamstatic.com
 
+# SNOW
+DOMAIN-SUFFIX, snow.me
+DOMAIN-SUFFIX, snow-h5-web.pstatic.net
+
 # 自用机场
 DOMAIN-SUFFIX, yungang.cc
