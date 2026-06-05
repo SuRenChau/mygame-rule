@@ -8,14 +8,14 @@ DOMAIN-SUFFIX, gamepass.com
 DOMAIN-SUFFIX, centauriglobal.com
 
 # 棕色尘埃2
-DOMAIN-SUFFIX, chat.bd2.pmang.cloud
-DOMAIN-SUFFIX, loki.bd2.pmang.cloud
-DOMAIN-SUFFIX, api.bd2.pmang.cloud
-DOMAIN-SUFFIX, mt.bd2.pmang.cloud
-DOMAIN-SUFFIX, neonapi.com
-DOMAIN-SUFFIX, browndust2.com
-DOMAIN-SUFFIX, browndust2.global
-DOMAIN-SUFFIX, bd2-webshop-prod.s3.amazonaws.com
+# DOMAIN-SUFFIX, chat.bd2.pmang.cloud
+# DOMAIN-SUFFIX, loki.bd2.pmang.cloud
+# DOMAIN-SUFFIX, api.bd2.pmang.cloud
+# DOMAIN-SUFFIX, mt.bd2.pmang.cloud
+# DOMAIN-SUFFIX, neonapi.com
+# DOMAIN-SUFFIX, browndust2.com
+# DOMAIN-SUFFIX, browndust2.global
+# DOMAIN-SUFFIX, bd2-webshop-prod.s3.amazonaws.com
 
 # Steam
 DOMAIN-SUFFIX, steamcommunity.com
